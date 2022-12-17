@@ -1,0 +1,22 @@
+.harika {
+  background-color: #0f172a;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 350px;
+  width: 300px;
+}
+.hema {
+  height: 200px;
+  width: 100px;
+}
+.Won {
+  color: #18ed66;
+}
+.Lost {
+  color: #e31a1a;
+}

@@ -1,0 +1,80 @@
+.RCB {
+  background-color: #a4261d;
+
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.banner {
+  height: 350px;
+  width: 70%;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.string {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.SH {
+  background-color: #f26d22;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.CSK {
+  background-color: #f7db00;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.DC {
+  background-color: #5755a7;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.RR {
+  background-color: #da237b;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.KKR {
+  background-color: #1e293b;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.MI {
+  background-color: #4f5db0;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+.KXP {
+  background-color: #d91c1f;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
